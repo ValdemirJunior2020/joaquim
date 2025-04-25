@@ -25,7 +25,17 @@ function App() {
     ],
     Colors: [
       { image: '/images/red.jpg', sound: '/sounds/rouge.mp3', label: 'Rouge' },
-      { image: '/images/blue.jpg', sound: '/sounds/bleu.mp3', label: 'Bleu' }
+      { image: '/images/blue.jpg', sound: '/sounds/bleu.mp3', label: 'Bleu' },
+      { image: '/images/yellow.jpg', sound: '/sounds/jaune.mp3', label: 'Jaune' },
+      { image: '/images/green.jpg', sound: '/sounds/vert.mp3', label: 'Vert' },
+      { image: '/images/orange.jpg', sound: '/sounds/orange.mp3', label: 'Orange' },
+      { image: '/images/pink.jpg', sound: '/sounds/rose.mp3', label: 'Rose' },
+      { image: '/images/purple.jpg', sound: '/sounds/violet.mp3', label: 'Violet' },
+      { image: '/images/brown.jpg', sound: '/sounds/marron.mp3', label: 'Marron' },
+      { image: '/images/black.jpg', sound: '/sounds/noir.mp3', label: 'Noir' },
+      { image: '/images/white.jpg', sound: '/sounds/blanc.mp3', label: 'Blanc' },
+      { image: '/images/gray.jpg', sound: '/sounds/gris.mp3', label: 'Gris' },
+      { image: '/images/purple.jpg', sound: '/sounds/turquoise.mp3', label: 'Turquoise' }
     ]
   }
 
